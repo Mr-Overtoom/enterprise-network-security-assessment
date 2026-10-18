@@ -25,5 +25,5 @@ Skills Demonstrated
 - Risk Evaluation
 - Technical Documentation
 
-Disclaimer
+Disclaimer: 
 This project was conducted in a controlled educational environment for defensive cybersecurity learning purposes.
